@@ -1,0 +1,6 @@
+export{default as Aws} from "./aws1.jpg"
+export {default as Dockerization} from "./Dockerization.png"
+export {default as Github} from "./Github.png"
+export {default as Kubernetes} from "./Kubernetes.png"
+export {default as Linux} from "./Linux.jpg"
+export {default as Logical} from "./Logical.png"

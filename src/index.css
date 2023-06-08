@@ -1,0 +1,52 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: #fafafa;
+}
+
+h1, h2, h3{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+a{
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.course-resoures a{
+  color: #212338;
+}
+
+.course-resoures a:hover{
+  color: #FFBD59;
+}
+
+.list-btn{
+  background-color: #f0f0f0;
+  font-weight: 300;
+}
+.list-btn:hover{
+  color: #ffa926;
+  background: #f9efe0;
+}
+
+
+@media (max-width: 564px) {
+     h1{
+      font-size: 25px !important;
+      text-align: center;
+     }
+}
+
+@media (max-width: 400px) {
+  h1{
+    font-size: 20px !important;
+  
+   }
+}
+
+
+
